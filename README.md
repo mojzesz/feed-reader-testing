@@ -4,7 +4,7 @@ Testing is an important part of the development process and many organizations p
 
 ## How To Run The Application
 
-🁤 Open `index.html` in your browser.
+⚀ Open `index.html` in your browser.
 
 ## What I Did
 
